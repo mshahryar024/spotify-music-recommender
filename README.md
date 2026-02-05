@@ -15,6 +15,8 @@ This project builds a Spotify-style music recommendation system using song-level
 
 ## 📊 Key Visualizations
 
+## 📊 Key Visualizations
+
 ### Feature Distributions
 ![Feature Distributions](figures/feature_distributions.png)
 
