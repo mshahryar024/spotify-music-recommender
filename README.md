@@ -13,7 +13,6 @@ This project builds a Spotify-style music recommendation system using song-level
 
 ## 📂 Repository Structure
 
-## 📊 Key Visualizations
 
 ## 📊 Key Visualizations
 
